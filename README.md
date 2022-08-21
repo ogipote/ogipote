@@ -1,5 +1,5 @@
-<h1 align="center">Salut je suis Masha</h1>
-<h3 align="center">Propriétaire du bot Kaori et du serveur Kaori</h3>
+<h1 align="center">Salut je suis Nadia</h1>
+<h3 align="center">Propriétaire du bot Akko et du serveur Kaori</h3>
 
 - 🔭 Je travaille actuellement sur [Kaori](https://discord.gg/sociale)
 
@@ -7,7 +7,7 @@
 
 - 💬 Demandez-moi **nodejs**
 
-- 📫 Comment me joindre **koari@gmail.com**
+- 📫 Comment me joindre **discordstraw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
